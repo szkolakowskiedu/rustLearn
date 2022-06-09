@@ -6,5 +6,6 @@ cargo - better structure, listing all of the dependencies (especially useful in 
 ```
 cargo new project-name
 cd project-name
+cargo build
 ```
 rustfmt - automatically format our rust code  
