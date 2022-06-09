@@ -8,6 +8,7 @@ cargo new project-name
 cd project-name
 cargo build *compiles program*
 ./target/debug/project-name
-cargo run *checks if program has no errors*
+cargo run *compiles and runs the program*
+cargo check *checks if program has no errors*
 ```
 rustfmt - automatically format our rust code  
