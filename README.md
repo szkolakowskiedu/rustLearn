@@ -15,3 +15,4 @@ rustfmt - automatically formats rust code
 ```
 rustfmt path-to-file
 ```
+
